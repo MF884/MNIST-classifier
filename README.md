@@ -1,1 +1,1 @@
-# CNN-classifier
+# MNIST-classifier
